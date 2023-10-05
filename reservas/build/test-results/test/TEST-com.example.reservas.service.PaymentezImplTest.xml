@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.reservas.service.PaymentezImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-04T12:47:03" hostname="ESNEIDER-MENDEZ" time="1.285">
+  <properties/>
+  <testcase name="getBank()" classname="com.example.reservas.service.PaymentezImplTest" time="1.285"/>
+  <system-out><![CDATA[07:47:04.895 [Test worker] INFO com.example.reservas.service.PaymentezImpl -- URL https://noccapi-stg.paymentez.com/banks/PSE/
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
